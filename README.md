@@ -6,3 +6,5 @@ Thanks for visiting my profile.
 :seedling: What I'm Learning: I'm hoping to learn Rust or Go sometime! I also want to learn how to make fuzzers!  
 
 I like contributing to projects too!
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ELLDER054&theme=blue-green)
