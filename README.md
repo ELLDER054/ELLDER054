@@ -11,4 +11,4 @@ I like contributing to projects too!
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ELLDER054&theme=blue-green)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/ELLDER054/gizmo-lang)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/ELLDER054/gizmo-lang)
